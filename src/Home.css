@@ -1,0 +1,8 @@
+.wrap{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.block{
+    width: 33%;
+}
